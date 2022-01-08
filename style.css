@@ -1,0 +1,10 @@
+.header-part{
+	background-image: url("img/home.jpg");
+	nax-height: 700px;
+	background-size: cover;
+	background-attachment: fixed;
+}
+.overlay{
+	background-color: rgba(0,0,0,0.5);
+	max-height: 700px;
+}
